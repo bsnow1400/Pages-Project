@@ -1,6 +1,3 @@
-markdown: kramdown
-theme: modern
-
 # **User Page**
 ## *Ben Snowbarger*
 
