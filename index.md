@@ -14,7 +14,7 @@ class HelloWorld {
 ```
 ![Here is the school I attend](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California,_San_Diego_seal.svg/1280px-University_of_California,_San_Diego_seal.svg.png)
 
-[Here is the project's README](../README.md)
+[Here is the project's README](README.md)
 
 There are three types of people
 - Dog lovers
